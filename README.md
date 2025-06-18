@@ -2,7 +2,8 @@
 
 ### About Me
 
-My name is **Manolis Huerta-Stylianou**!  
+My name is Manolis Huerta-Stylianou!  
+
 I am a rising senior majoring in Computer Science and minoring in Mathematics and Artificial Intelligence at the Cornell University College of Engineering.
 
 I have been interested in computer science and its applications to multidisciplinary fields of study since my early years of high school when I spent two years involved in bioinformatics research at Regeneron Pharmaceuticals. Since then, I have found a passion for research in the field of computer science, for which I am lucky and grateful for the Hunter R. Rawlings III Cornell Presidential Research Scholars (RCPRS) program and Louis Stokes Alliances for MINORITY Participation (LSAMP) program. 
