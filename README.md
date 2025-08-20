@@ -1,4 +1,4 @@
-# Hello foenem 👋
+# Hello 👋
 
 ### About Me
 
